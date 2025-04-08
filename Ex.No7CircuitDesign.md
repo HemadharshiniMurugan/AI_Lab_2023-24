@@ -1,4 +1,4 @@
-# Ex.No: 7//  Logic Programming –  Logic Circuit Design
+# Ex.No:7 Logic Programming –  Logic Circuit Design
 ### DATE: 08/04/2025                                                                   
 ### REGISTER NUMBER : 212222040053
 ### AIM: 
