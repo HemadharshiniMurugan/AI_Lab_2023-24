@@ -5,7 +5,7 @@
 To write a program to train the classifier for Student performance prediction using machine learning
 ###  Algorithm:
 1.Load the dataset from CSV
-
+ 
 2.Clean the data (remove ID, encode text fields)
 
 3.Label students as High or Low Performer based on CGPA ≥ 3.0
